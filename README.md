@@ -1,3 +1,5 @@
+# Web Scraping
+
 A Book Club é uma Startup de troca de livros. O modelo de negócio funciona com base na troca de livros pelos usuários, cada livro cadastrado pelo usuário, dá o direito à uma troca, porém o usuário também pode comprar o livro, caso ele não queira oferecer outro livro em troca.
 
 Umas das ferramentas mais importantes para que esse modelo de negócio rentabilize, é a recomendação. Uma excelente recomendação aumenta o volume de trocas e vendas no site.
@@ -8,11 +10,11 @@ Os livros para troca, são enviados pelos próprios usuários através de um bot
 
 Logo, antes de construir um sistema de recomendação, você precisa coletar e armazenar os dados do site. Portanto seu primeiro trabalho como um Data Scientist será coletar e armazenar os seguintes dados:
 
-1 - O nome do livro.
-2 - A categoria do livro.
-3 - O número de estrelas que o livro recebeu.
-4 - O preço do livro.
-5 - Se o livro está em Estoque ou não.
+1. O nome do livro.
+2. A categoria do livro.
+3. O número de estrelas que o livro recebeu.
+4. O preço do livro.
+5. Se o livro está em Estoque ou não.
 
 
 Localização dos dados 

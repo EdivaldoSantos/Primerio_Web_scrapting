@@ -29,14 +29,14 @@ Esse site foi desenvolvido e disponibilizado especialmente para praticar web scr
 1. Faça o web scraper, necessariamente, utilizando a linguagem Python.
 2. Utiliza a biblioteca Selenium do Python para navegar entre os links das categorias e as páginas.
 3. Utiliza a biblioteca BeautifulSoup do Python para coletar os dados das páginas HTML.
-4. Instale no seu computador e configure um banco de dados Postgres.
+4. Instale no seu computador e configure um banco de dados SQL Server Express.
 5. Crie uma tabela para armazenar os dados.
 6. Agende seu script para rodar todos os dias em um horário específico. ( Não tem problema armazenar dados repetidos, já que o site não tem atualizações diárias )
 7. Garanta que seu script saiba lidar com possíveis erros e não pare de funcionar por qualquer problema ( internet lenta, página não encontrada, objeto não carregado, etc )
 8. Salve seu projeto em um repositório público Github ou Bitbucket.
 9. Escreva o README com todos os passos necessários, para que outras pessoas consigam usar sua solução.
 
-Tornar sua solução Profissionalmente Respeitada:
+**Tornar sua solução Profissionalmente Respeitada:**
 
 Crie sua solução modularizada. O Script em Python deve salvar um arquivo csv em alguma pasta da sua máquina e então outro script em bash, deve fazer a inserção dos dados no banco de dados.
 

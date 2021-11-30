@@ -24,3 +24,4 @@ for url in url:
     links.append(url.find_all('a',))
 
     print(links)
+# Teste
